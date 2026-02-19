@@ -16,3 +16,6 @@ Logistic Regression
 
 ## Result
 The model achieved good accuracy on test data.
+
+You can view the notebook here:
+https://nbviewer.org/github/Suhani-31/Iris_Flower_Classification/blob/main/Pro.ipynb
